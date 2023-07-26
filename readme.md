@@ -1,4 +1,4 @@
-Here are some examples of SQL queries that are commonly used in professional settings:
+Here are some examples of SQL queries that can be used in professional settings with my templates:
 
 1. Data Retrieval:
 
